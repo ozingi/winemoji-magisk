@@ -1,6 +1,6 @@
-id=android11emoji
-name=Windows 11 3D emojis
-version=v3
-versionCode=3
-author=Vladwin
-description=Systemlessly replaces your default emojis with Windows 11 Unicode 13 emojis and noto 14 emojis
+﻿id=winemoji
+name=Windows emojis
+version=v1.35.01
+versionCode=13501
+author=深夜听表
+description=提取自最新dev频道Windows 自带的emoji字体，magisk刷入即可体验和pc一致的emoji传递体验 👻 Fonts extracted from the latest DEV channel Windows built-in emoji fonts, Magisk brush into the experience and PC consistent emoji delivery experience. 
