@@ -361,3 +361,5 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/winemoji_v1.35.04.zip
+/winemoji_v1.35.01.zip
