@@ -1,7 +1,7 @@
 id=winemoji
 name=Windows emoji
-version=v1.35.04
-versionCode=13504
+version=v1.40.02
+versionCode=14002
 author=深夜听表
 description=提取自最新dev频道Windows 自带的emoji字体,magisk刷入即可体验和pc一致的emoji传递体验 👻
-updateJson=https://ozingi.github.io/json/mMoudle/update/winemoji_magisk/updateJson.json
+updateJson=https://ozingi.github.io/json/mModule/update/winemoji_magisk/updateJson.json
