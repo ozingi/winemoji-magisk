@@ -1,5 +1,7 @@
 # winemoji-magisk
 Fonts extracted from the latest DEV channel Windows built-in emoji fonts, Magisk brush into the experience and PC consistent emoji delivery experience. 
+﻿## 发布日志 2024.8.9
+1. Windows emoji 字体版本更新至1.51(添加了Unicode 15.1新增emoji的支持)
 ## 发布日志 2023.7.18
 1. Windows emoji 字体版本更新至1.40(新风格类似3D，添加了Unicode 15新增emoji的支持)
 ## 发布日志 2022.8.11
